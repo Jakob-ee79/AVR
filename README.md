@@ -1,3 +1,3 @@
 # AVR
-Some devices based on AVR microcontroller and Atmel AVR studio
-TBN
+Some libraries for devices based on AVR microcontroller and Atmel AVR studio
+->TBN
